@@ -1,0 +1,50 @@
+.mainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    width:100vh;
+  }
+  
+  .subContainer{
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    height: 100%;
+    width: 100%;
+    
+  }
+  
+  .headerContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .heading{
+    font-size: 35px;
+    font-weight: bold;
+    color: #84A98C;
+  }
+  
+  .headingInfo{
+    line-height: 10px;
+    font-size: 17px;
+  }
+  
+  .patientInfo{    
+    font-size: 17px;
+    line-height: 10px;
+    margin-bottom: 30px;
+
+  }
+  
+  .feeTable{
+    display: flex;
+    justify-content:center;
+    font-size: 17px;
+  
+  }
+  

@@ -1,0 +1,71 @@
+
+.Main-Table-Table-Head .Main-Table-Table-Head-Row .MuiTableCell-head {
+    background-color: #d8e3ee
+  }
+  
+  .Main-Table-Table-Head-Row th:nth-child(1) {
+   color: #263238;
+  }
+  
+  .Main-Table-Table-Head-Row  th:nth-child(2) {
+   color:  #263238;
+  }
+  
+  .Main-Table-Table-Head-Row  th:nth-child(3) {                                                                 
+   color:  #263238;
+  }
+  
+  .Main-Table-Table-Head-Row  th:nth-child(4) {
+    color:  #263238;
+  }
+  
+  .Main-Table-Table-Head-Row  th:nth-child(5) {   
+    color:  #263238;
+  }
+  
+  .Main-Table-Table-Head-Row  th:nth-child(6) {
+    color:  #263238;
+  }
+  
+  .Main-Table-Table-Head-Row  th:nth-child(7) {
+    color:  #263238;
+  }
+  
+  .Main-Table-Table-Head-Row  th:nth-child(8) {
+    color:  #263238;
+  }
+  
+  .Main-Table-Table-Head-Row  th:nth-child(9) {
+    color:  #263238;
+  }
+  
+  
+  .Main-Table {
+    max-height: 75vh;
+     }
+     
+  .Main-Table-Table-Body .Main-Table-Styled-Table-Row{
+    background-color:#EAEBEC;
+  }
+  
+  .Main-Table-Table-Body .Main-Table-Styled-Table-Row:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .Main-Table-Styled-Table-Row {
+    font-size: 14px;
+  }
+  
+  .Main-Table-Styled-Table-Row td:first-child {
+    font-weight:500;
+  }
+  
+  .Main-Table-Styled-Table-Row td:last-child {
+    font-weight:lighter;
+  }
+  
+  
+  
+  
+  
+  
